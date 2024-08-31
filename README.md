@@ -1,3 +1,5 @@
+# Kanban Board - Project Management System
+ 
  _**There are 4 main entities**_ -
 
     1) User - (int id(PK), String name)
