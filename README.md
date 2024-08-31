@@ -155,29 +155,3 @@ I have added 4 functions
 **removeUserFromTask()** - This function will add an entry in the history table when user is removed from the task.
 **addStateToTask()** - This function will add an entry in the history table when a state is assigned to a task
 **addCommentToTask()** - This function will add an entry in the history table when a comment is added to a task
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# KanbanBoard
